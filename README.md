@@ -9,4 +9,6 @@
 **Fun Fact:** I believe that well-written code is like poetry - elegant, expressive, and a joy to read! 📜✨
 
 [![Current Status](https://img.shields.io/badge/Current%20Status-Coding%20Wonderland-blueviolet)](https://github.com/your-username)
+![Stars](https://img.shields.io/github/stars/your-username?style=social)
+
 
